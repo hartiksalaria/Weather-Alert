@@ -32,7 +32,7 @@ client = Client(account_sid, auth_token)
 message = client.messages \
                 .create(
                      body=today_forecast,
-                     from_='+12095536133',
-                     to='+919878965313'
+                     from_='from',
+                     to='to'
                  )
 print(message.sid)
