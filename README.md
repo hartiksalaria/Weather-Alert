@@ -1,4 +1,4 @@
-Sends weather details like maximum, minimum temperature daily at a specific time.
+Weather Alert bot made using python by integrating twilio and weather api's to send the sms and get weather information respectively. Sends weather details like maximum, minimum temperature daily at a specific time.
 Hosted using pythonanywhere
 
 
